@@ -1,4 +1,4 @@
-# KCASCalculator
+# Kancolle Air Superiority calculator
 
 Kancolle is a japanese browser-based game which is now pretty successful abroad too, to say nothing of the media franchise in its wake.
 The gameplay revolves around building squadrons composed of individual characters embodying warships.
